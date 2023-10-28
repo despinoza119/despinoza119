@@ -13,7 +13,7 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 - 👯 Interested in data-driven projects for life improvement and business process enhancement.
 
 ## Contact me
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 ## Skills
