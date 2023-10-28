@@ -1,6 +1,6 @@
 ## Hello and welcome to my GitHub repository! 
 
-<img ![gifprogrammer](https://github.com/despinoza119/despinoza119/assets/71891546/145bdbca-6b5b-4cee-afd7-8cd5404c24ca) width="250" height="250"/>
+![gifprogrammer](https://github.com/despinoza119/despinoza119/assets/71891546/145bdbca-6b5b-4cee-afd7-8cd5404c24ca =250x250)
 
 
 - 🎓 I'm a mechatronic engineer with various studies in business analytics and data science, with an interest in the world of artificial intelligence.
