@@ -4,6 +4,12 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" height="300">
 </p>
 
+<p align="center">
+  <img src="https://github.com/despinoza119/despinoza119/assets/71891546/92767788-fe6b-4c5b-b2b8-9508a9b0ae3a" width="300" height="300">
+</p>
+
+![result](https://github.com/despinoza119/despinoza119/assets/71891546/92767788-fe6b-4c5b-b2b8-9508a9b0ae3a)
+
 ## About me
 My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in the field of data and artificial intelligence.
 
@@ -18,3 +24,4 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 
 ## Skills
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
