@@ -1,6 +1,8 @@
 ## Hello and welcome to my GitHub repository! 
 
-<img src="https://github.com/despinoza119/despinoza119/assets/71891546/145bdbca-6b5b-4cee-afd7-8cd5404c24ca" width="300" height="300">
+<p align="center">
+  <img src="https://github.com/despinoza119/despinoza119/assets/71891546/145bdbca-6b5b-4cee-afd7-8cd5404c24ca" width="400" height="400">
+</p>
 
 - 🎓 I'm a mechatronic engineer with various studies in business analytics and data science, with an interest in the world of artificial intelligence.
 - 🔭 I'm working on a project with the objective of increasing agricultural productivity and supporting food security by monitoring crop health and predicting yields. 
