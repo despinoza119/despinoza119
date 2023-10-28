@@ -14,6 +14,7 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 
 ## Skills
 
+<p align="center">
  💻 Favorite Languages:
 
 <img src="https://camo.githubusercontent.com/1a849b957aa8ee70ac30b2f453734c56cc1adc0a04654a3ed83e954825fa968a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532333132313030452e7376673f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d79656c6c6f77"><img src="https://camo.githubusercontent.com/0b36a8d778abb07e24933334702bb9a8171f1d40a470feacdc9efd9811f4fabd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d2532333132313030452e7376673f6c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d726564267374796c653d666f722d7468652d6261646765">
@@ -27,4 +28,5 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 ⚙️ Operating systems I use:
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><img src=""><img src="">
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></p>
