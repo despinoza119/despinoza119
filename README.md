@@ -15,7 +15,7 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 ## Contact me
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/despinozam/)
 
 ![image]({BadgeURLHere})
 
