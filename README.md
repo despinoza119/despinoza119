@@ -14,8 +14,8 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 
 ## Skills
 
-<p align="center">
- ## 💻 Favorite Languages:
+<p align="center" style="font-size: 24px;">
+ 💻 Favorite Languages:
 </p>
      
 <p align="center">
