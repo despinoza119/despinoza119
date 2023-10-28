@@ -1,7 +1,7 @@
 ## Hello and welcome to my GitHub repository! 
 
 <p align="center">
-  <img src="https://github.com/despinoza119/despinoza119/assets/71891546/145bdbca-6b5b-4cee-afd7-8cd5404c24ca](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400" height="400">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400" height="400">
 </p>
 
 ![gifprogrammer](https://github.com/despinoza119/despinoza119/assets/71891546/202205e9-cc35-4814-b60d-6ab0f8c59340)
