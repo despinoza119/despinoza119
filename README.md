@@ -7,8 +7,7 @@
 ## About me
 My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in the field of data and artificial intelligence.
 
-- 🤖 I'm a mechatronic engineer with various studies in business analytics and data science.
-- 🔭 I'm working on a project with the objective of increasing agricultural productivity and supporting food security by monitoring crop health and predicting yields. 
-- 🌱 I'm studying a master's degree in Big Data and Artificial Intelligence in Barcelona.
-- 👯 I'm interested in collaborating on projects that enhance people's quality of life and/or seek to improve business processes through the use of data.
-
+- 🤖 Mechatronic engineer with analytics and data science background.
+- 🔭 Working on agriculture project for increased productivity and food security.
+- 📚 Pursuing a Big Data and AI master's in Barcelona.
+- 👯 Interested in data-driven projects for life improvement and business process enhancement.
