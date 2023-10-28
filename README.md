@@ -1,13 +1,3 @@
-<h1>Hello and welcome to my GitHub repository!</h1>
-
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" height="300">
-</p>
-
-<p align="center">
-  <img src="https://github.com/despinoza119/despinoza119/assets/71891546/92767788-fe6b-4c5b-b2b8-9508a9b0ae3a" width="300" height="300">
-</p>
-
 ![result](https://github.com/despinoza119/despinoza119/assets/71891546/92767788-fe6b-4c5b-b2b8-9508a9b0ae3a)
 
 ## About me
