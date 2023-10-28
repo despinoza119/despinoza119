@@ -1,4 +1,5 @@
-### Hello and welcome to my GitHub repository! 🚀 Feel free to explore, collaborate, and discover exciting projects.
+## Hello and welcome to my GitHub repository! 
+###🚀 Feel free to explore, collaborate, and discover exciting projects.
 
 
 - 🎓 I'm a mechatronic engineer with various studies in business analytics and data science, with an interest in the world of artificial intelligence.
