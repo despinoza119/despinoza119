@@ -1,7 +1,7 @@
 ## Hello and welcome to my GitHub repository! 
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="350" height="350">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" height="300">
 </p>
 
 - 🎓 I'm a mechatronic engineer with various studies in business analytics and data science, with an interest in the world of artificial intelligence.
