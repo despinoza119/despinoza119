@@ -13,6 +13,15 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/despinozam/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/danielx119/)
 
+<a href="https://www.linkedin.com/in/despinozam/" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin">
+</a>
+
+<a href="https://www.instagram.com/danielx119/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram">
+</a>
+
+
 ## Skills
 
 <p align="center">
