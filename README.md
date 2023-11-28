@@ -20,7 +20,7 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
      
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,mysql	" />
+    <img src="https://skillicons.dev/icons?i=py,c,mysql" />
   </a>
 </p>
 
