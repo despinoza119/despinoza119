@@ -51,3 +51,9 @@ My name is Daniel Espinoza, and I am from Lima, Peru. I have a keen interest in 
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
+
+## GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=despinoza119&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=despinoza119&layout=compact&theme=tokyonight)
